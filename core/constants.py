@@ -1,0 +1,7 @@
+TASK_STATUS_PENDING = "pending"
+TASK_STATUS_DONE = "done"
+
+TASK_STATUS_CHOICES = [
+    (TASK_STATUS_PENDING, "Pending"),
+    (TASK_STATUS_DONE, "Done"),
+]
