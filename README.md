@@ -1,3 +1,4 @@
+**Author:** Muhsin
 # Day 7 – Django Clean Architecture
 
 A Django project demonstrating clean structure, environment config, and Git workflow.
